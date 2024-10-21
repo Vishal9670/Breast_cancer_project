@@ -1,4 +1,6 @@
 #Breast Cancer Diagnosis Prediction Using Random Forest
+
+
 Project Overview
 This project focuses on predicting whether a tumor is malignant or benign using the Breast Cancer Wisconsin Dataset. The goal is to build a robust machine learning model that can accurately classify tumors based on various features related to cell characteristics. I chose a Random Forest Classifier for this task due to its ability to handle complex datasets efficiently and provide high accuracy.
 
